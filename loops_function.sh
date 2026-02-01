@@ -1,7 +1,8 @@
 #!/bin/bash
 
 <<info
-this scrit creates a user and deletes the user
+THIS SCRIPT IS USED TO CREATE A USER,
+DELETE A USER
 info
 
 create_user() {
